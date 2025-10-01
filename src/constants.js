@@ -1,0 +1,50 @@
+export const cardArray = [
+  {
+    id: 0,
+    title: "Пвх материал первый сорт",
+    price: "171 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    img: "./img/card-img.png"
+  },
+  {
+    id: 1,
+    title: "Пвх материал второй сорт",
+    price: "173 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    img: "./img/card-img.png"
+  },
+  {
+    id: 2,
+    title: "Пвх материал третий сорт",
+    price: "176 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    img: "./img/card-img.png"
+  },
+  {
+    id: 3,
+    title: "Пвх материал четвертый сорт",
+    price: "178 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    img: "./img/card-img.png"
+  },
+  {
+    id: 4,
+    title: "Пвх материал пятый сорт",
+    price: "179 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    img: "./img/card-img.png"
+  },
+  {
+    id: 5,
+    title: "Пвх материал шестой сорт",
+    price: "170 ₽",
+    address: "Казань, р-н Вахитовский",
+    date: "10 июля 11:39",
+    img: "./img/card-img.png"
+  }
+]
